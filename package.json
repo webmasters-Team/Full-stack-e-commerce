@@ -1,0 +1,14 @@
+{
+  "name": "webmasters_localhost",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    
+    "setup": "evershop install",
+    "build": "evershop build",
+    "start": "evershop start"
+  },
+  "dependencies": {
+    "@evershop/evershop": "^1.2.1"
+  }
+}
